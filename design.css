@@ -1,0 +1,19 @@
+body {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.waze {
+    position: absolute;
+    left:43%;
+    top: 67%;
+}
+.container {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.author {
+    left: 30%;
+    font-size: 60%;
+}
